@@ -32,9 +32,9 @@ namespace ControleDeAcessoUi
         {
             Senha = novaSenha;
         }
-        
-            // Método para editar dados
-            public void Editar(string nome, string cpf, string tipoUsuario)
+
+        // Método para editar dados
+        public void Editar(string nome, string cpf, string tipoUsuario)
         {
             Nome = nome;
             Cpf = cpf;
@@ -84,6 +84,8 @@ namespace ControleDeAcessoUi
             Console.WriteLine($"Tipo de Operação: {TipoOperacao}");
         }
 
-       
+
 
     }
+}
+//teste
