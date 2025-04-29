@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35818.85
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ControleDeAcesso", "ControleDeAcesso\ControleDeAcesso.csproj", "{3856EE62-6B72-462F-986F-50CAD85A1ABA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ControleDeAcessoUi", "ControleDeAcessoUi\ControleDeAcessoUi.csproj", "{9EAC6B9B-77A2-41F1-960E-A910DBA6D414}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3856EE62-6B72-462F-986F-50CAD85A1ABA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3856EE62-6B72-462F-986F-50CAD85A1ABA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3856EE62-6B72-462F-986F-50CAD85A1ABA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3856EE62-6B72-462F-986F-50CAD85A1ABA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9EAC6B9B-77A2-41F1-960E-A910DBA6D414}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9EAC6B9B-77A2-41F1-960E-A910DBA6D414}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9EAC6B9B-77A2-41F1-960E-A910DBA6D414}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9EAC6B9B-77A2-41F1-960E-A910DBA6D414}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8867F3C2-F2C8-43C3-8895-99424A65C399}
+	EndGlobalSection
+EndGlobal
